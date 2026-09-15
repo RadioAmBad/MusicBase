@@ -22,7 +22,7 @@ Arbeitet direkt auf den Audiodateien (inkl. ID3-Tags).
   ersetzt (z.B. "A7S/David Guetta/Wizkid" -> "A7S, David Guetta, Wizkid") ersetzt.
 - **Lautheit normalisieren (-23 LUFS, EBU R128)**: Normalisiert die ausgewählten Titel mit einem Klick auf
   den im Rundfunk üblichen Zielwert von -23 LUFS.
-  - **Hell-/Dunkelmodus** umschaltbar per Button Button oben rechts (Standard:
+- **Hell-/Dunkelmodus** umschaltbar per Button Button oben rechts (Standard:
   dunkel), Einstellung wird im Browser gemerkt.
 - Für Azuracast Nutzer: Button zum Anstoßen des AzuraCast-Rescans, also dem neu laden der Musikbibliothek in Azuarcast.
 
