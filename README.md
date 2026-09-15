@@ -43,8 +43,8 @@ Erfordert wird ein Server mit Python3.
 ### 1. Repository holen
 
 ```bash
-git clone https://github.com/RadioAmBAd/MusicBase.git
-cd <repo>
+git clone https://github.com/RadioAmBad/MusicBase.git
+cd MusicBase
 ```
 
 ### 2. Virtuelle Umgebung + Dependencies
