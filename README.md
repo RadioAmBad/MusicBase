@@ -1,4 +1,4 @@
-# MusicBase - Musikbibliothek-Interface
+# MusicBase - Musikbibliothek Interface für Radiosender
 
 Selbstgehostetes Web Interface zur Verwaltung der Musikbibliothek des Radiosenders.
 Arbeitet direkt auf den Audiodateien (inkl. ID3-Tags).
