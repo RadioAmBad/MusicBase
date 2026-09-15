@@ -59,8 +59,6 @@ pip install -r requirements.txt
 
 ```bash
 cp .env.example .env
-```
-```bash
 nano .env
 ```
 
@@ -84,9 +82,3 @@ python run.py
 ```
 
 → `http://127.0.0.1:5050`, dort "Bibliothek neu einlesen" klicken.
-
-### 4. Erststart
-
-```bash
-python3 run.py
-```
