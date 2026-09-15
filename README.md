@@ -73,7 +73,7 @@ nano .env
 | `AZURACAST_STATION_ID` | nein* | Stations-ID in AzuraCast |
 | `SECRET_KEY` | ja | Zufallsstring, z.B. `python3 -c "import secrets; print(secrets.token_hex(32))"` |
 
-\* nur für Azuracast Nutzer relevant
+\*nur für Azuracast Nutzer relevant
 
 ### 4. Erststart
 
