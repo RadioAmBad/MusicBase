@@ -86,3 +86,7 @@ python run.py
 ```
 
 → `http://127.0.0.1:5050`, dort "Bibliothek neu einlesen" klicken.
+
+> [!TIP]
+> Der Name des Interfaces (oben links zu sehen) kann in der `index.html` unter `/app/templates` geändert werden.
+> Zur Verwendung eines favicons muss dieses als `favicon.ico` unter `/app/static` abgelegt werden.
