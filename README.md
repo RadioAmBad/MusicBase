@@ -43,7 +43,7 @@ Erfordert wird ein Server mit Python3.
 ### 1. Repository holen
 
 ```bash
-git clone https://github.com/<user>/<repo>.git
+git clone https://github.com/RadioAmBAd/MusicBase.git
 cd <repo>
 ```
 
