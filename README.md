@@ -2,7 +2,6 @@
 
 Selbstgehostetes Web Interface zur Verwaltung der Musikbibliothek des Radiosenders.
 Arbeitet direkt auf den Audiodateien (inkl. ID3-Tags).
-⚠ Erfordert, dass die Lieder zentral in einer Cloud liegen!
 
 ## Funktionen
 
