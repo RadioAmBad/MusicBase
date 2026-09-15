@@ -89,5 +89,6 @@ python run.py
 
 > [!TIP]
 > Der Name des Interfaces (oben links zu sehen) kann in der `index.html` unter `/app/templates` geändert werden.
-> > [!TIP]
+
+> [!TIP]
 > Zur Verwendung eines Favicons muss dieses als `favicon.ico` unter `/app/static` abgelegt werden.
