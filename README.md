@@ -3,9 +3,9 @@
 
 Selbstgehostetes Web Interface zur Verwaltung der Musikbibliothek des Radiosenders.
 Arbeitet direkt auf den Audiodateien (inkl. ID3-Tags).
-<img width="2559" height="1201" alt="2026-09-15 23_33_19-" src="https://github.com/user-attachments/assets/ba8ebae3-2ec6-4d2a-a0de-27cf172b43a5" />
-<img width="2560" height="1202" alt="2026-09-15 23_35_33-" src="https://github.com/user-attachments/assets/b932ae04-2069-4edb-b89e-c744dbb2ebb0" />
-<img width="2560" height="1202" alt="2026-09-15 23_34_53-MusicBase" src="https://github.com/user-attachments/assets/66ec4a3a-088b-403c-9858-061d975e3790" />
+<img width="1919" height="901" alt="2026-09-15 23_33_19-" src="https://github.com/user-attachments/assets/ba8ebae3-2ec6-4d2a-a0de-27cf172b43a5" />
+<img width="1919" height="901" alt="2026-09-15 23_34_53-MusicBase" src="https://github.com/user-attachments/assets/66ec4a3a-088b-403c-9858-061d975e3790" />
+<img width="1919" height="901" alt="2026-09-15 23_35_33-" src="https://github.com/user-attachments/assets/b932ae04-2069-4edb-b89e-c744dbb2ebb0" />
 
 ## Funktionen
 
