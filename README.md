@@ -34,7 +34,7 @@ Erfordert wird ein Server mit Python3.
 ### Voraussetzungen
 
 - Python 3.9+
-- ffmpeg im `PATH` (für die Lautheits-Normalisierung `-23 LUFS`)
+- ffmpeg im `PATH`
 - Musikbibliothek entweder in einem lokalen Ordner oder als gemounteter
   Cloud-/SFTP-Speicher — Hauptsache, unter einem festen Pfad erreichbar,
   mit Lese- und Schreibrechten für den App-Nutzer (nötig für Tags,
